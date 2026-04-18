@@ -25,3 +25,7 @@
 1. Launch the application and open a `.mid` file.
 2. Press Play to start playback.
 3. Use the timeline slider to seek.
+
+## Screenshot
+
+<p align="center"><img src="image.png"/></p>
