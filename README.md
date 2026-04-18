@@ -1,4 +1,5 @@
 <h1 align="center">FRSK MIDI Player</h1>
+<p align="center"><img src="icon.png" width="128"/></p>
 <p align="center">A high-performance MIDI visualizer and player for Windows.</p>
 <p align="center">
 <img alt="GitHub License" src="https://img.shields.io/github/license/FRSK1214/FRSK-Midi-Player">
