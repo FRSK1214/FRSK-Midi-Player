@@ -15,6 +15,17 @@
 - Custom note color palettes via PNG image
 - Timeline seeking, lyric display, NPS meter
 
+| Player | Parsing Time (ref.) |
+| :--- | :--- |
+| PFA Viz Mod | 73.3 |
+| Kiva | 57.6 |
+| KazuMidiPlayer | 21.9 |
+| **FMP** | 11.8 |
+| CsDMP | 8.3 |
+| olut | 6.0 |
+| Ziggy | 2.5 |
+| MPGL | 2.1 |
+
 ## Requirements
 
 - Windows 10 or later
