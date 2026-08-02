@@ -29,8 +29,9 @@
 ## Requirements
 
 - Windows 10 or later
+- AVX2-compatible CPUs
 - DirectX 11 capable GPU
-- [OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
+- [OmniMIDI](https://github.com/KeppySoftware/OmniMIDI) (Recommended)
 
 ## Usage
 
